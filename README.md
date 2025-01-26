@@ -1,6 +1,8 @@
 https://gist.github.com/guptaaditya746/02a5091db93eb2950177e3da94134e10
 
-<<<<<<< HEAD
+#resource 
+1. https://youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP&si=SafrNnQiggdAkyzk
+2. 
 
 
 
