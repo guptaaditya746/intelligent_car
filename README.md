@@ -1,5 +1,6 @@
 https://gist.github.com/guptaaditya746/02a5091db93eb2950177e3da94134e10
 
+<<<<<<< HEAD
 
 
 
@@ -99,3 +100,9 @@ ros2 launch description launch_sim.launch.py
 2. Make sure to validate your URDF/Xacro changes using the testing tools.
 3. Submit a pull request with a clear description of your changes.
 
+=======
+#how to run
+## after colcon build
+## source it
+## "ros2 launch description view_robot.launch.py
+>>>>>>> 7fd93882338d8e467dd90681e0ec1e46a65630bf
